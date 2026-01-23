@@ -116,109 +116,120 @@ what_is_css_.webpwhat_is_css_.webp
 CSS Fundamentals
 This section covers the fundamental topics of CSS, providing a solid base to get you started:
 
-Introduction to CSS
-Adding CSS to HTML
-CSS Syntax
-CSS Comments
-CSS Ruleset
-CSS Selectors
-CSS Combinators
-CSS Measurement Units
-Quiz: CSS Basics Quiz
+Introduction to CSS  https://www.geeksforgeeks.org/css/css-introduction/
+Adding CSS to HTML https://www.geeksforgeeks.org/css/how-to-add-css/
+CSS Syntax  https://www.geeksforgeeks.org/css/css-syntax/
+CSS Comments  https://www.geeksforgeeks.org/css/css-comments/
+CSS Ruleset  https://www.geeksforgeeks.org/css/what-is-css-ruleset/
+CSS Selectors  https://www.geeksforgeeks.org/css/css-selectors/
+CSS Combinators  https://www.geeksforgeeks.org/css/css-combinators/
+CSS Measurement Units  https://www.geeksforgeeks.org/css/css-units/
+Quiz: CSS Basics Quiz  https://www.geeksforgeeks.org/quizzes/css-basics-quiz/
+
 CSS Properties
 This section covers important CSS properties that control how elements look and work on a webpage. Start with CSS Display to learn how elements are shown and arranged.
 
-CSS Display
-CSS Backgrounds
-CSS Borders
-CSS Font
-CSS Colors
-CSS Margins
-CSS Padding
-CSS Position
-CSS White Space
-CSS Height and Width
-CSS OverFlow
-CSS Shadow
+CSS Display  https://www.geeksforgeeks.org/css/css-display-property/
+CSS Backgrounds  https://www.geeksforgeeks.org/css/css-background/
+CSS Borders  https://www.geeksforgeeks.org/css/css-borders/
+CSS Font  https://www.geeksforgeeks.org/css/css-fonts/
+CSS Colors  https://www.geeksforgeeks.org/css/css-colors/
+CSS Margins  https://www.geeksforgeeks.org/css/css-margins-padding/
+CSS Padding  https://www.geeksforgeeks.org/css/css-padding/
+CSS Position  https://www.geeksforgeeks.org/css/css-positioning-elements/
+CSS White Space  https://www.geeksforgeeks.org/css/css-white-space-property/
+CSS Height and Width  https://www.geeksforgeeks.org/css/css-height-and-width/
+CSS OverFlow  https://www.geeksforgeeks.org/css/css-overflow/
+CSS Shadow  https://www.geeksforgeeks.org/css/css-shadow-effect/
+
 Styling HTML Elements with CSS
 This section covers all the key techniques you need to style different parts of an HTML page using CSS:
 
-CSS Text
-CSS Images
-CSS Lists
-Quiz: CSS Colors and Fonts
-CSS Tables
-CSS Forms
-Quiz: CSS Forms
-CSS links
+CSS Text  https://www.geeksforgeeks.org/css/css-text-formatting/
+CSS Images  https://www.geeksforgeeks.org/css/css-styling-images/
+CSS Lists  https://www.geeksforgeeks.org/css/css-lists/
+Quiz: CSS Colors and Fonts  https://www.geeksforgeeks.org/quizzes/css-colors-and-fonts-quiz/
+CSS Tables  https://www.geeksforgeeks.org/css/css-tables/
+CSS Forms  https://www.geeksforgeeks.org/css/css-styling-forms/
+Quiz: CSS Formshttps://www.geeksforgeeks.org/quizzes/css-forms-quiz/
+CSS links  https://www.geeksforgeeks.org/css/css-links/
+
 CSS Projects for Beginners
 Now you have a basic understanding of CSS. So start with some beginner level projects to clear your concept and to implement in real world applications.
 
-Design Geeks for Geeks Logo
-Meet the Team Page Design
-Tribute Page Design
-Design a web page
-Contact Us Page Design
-Create Browsers Window
-Design Email Newsletter
+Design Geeks for Geeks Logo  https://www.geeksforgeeks.org/css/create-geeksforgeeks-logo-using-html-and-css/
+Meet the Team Page Design  https://www.geeksforgeeks.org/css/how-to-design-meet-the-team-page-using-html-and-css/
+Tribute Page Design  https://www.geeksforgeeks.org/web-templates/design-a-tribute-page-using-html-css/
+Design a web page  https://www.geeksforgeeks.org/web-templates/design-a-web-page-using-html-and-css/
+Contact Us Page Design  https://www.geeksforgeeks.org/web-templates/design-a-contact-us-page-using-html-and-css/
+Create Browsers Window  https://www.geeksforgeeks.org/web-templates/how-to-create-browsers-window-using-html-and-css/
+Design Email Newsletter  https://www.geeksforgeeks.org/html/how-to-create-an-email-newsletter/
+
 CSS Responsive Design
 This section focuses on CSS techniques that help you create flexible and adaptable web designs. You’ll learn how to build layouts that work well on different screen sizes and devices, control element spacing, and manage positioning effectively.
 
-CSS Media
-CSS Website Layout
-CSS Box Model
-Quiz: CSS Box Model and Spacing
-Responsive Design
-CSS Positioning
-Quiz: CSS Layout Logic
-CSS Nesting style rules
-Quiz: CSS Responsive Design and Media Queries
+CSS Media  https://www.geeksforgeeks.org/css/css-media-queries/
+CSS Website Layout  https://www.geeksforgeeks.org/css/css-website-layout/
+CSS Box Model  https://www.geeksforgeeks.org/css/css-box-model/
+Quiz: CSS Box Model and Spacing  https://www.geeksforgeeks.org/quizzes/css-box-model-and-spacing-quiz/
+Responsive Design  https://www.geeksforgeeks.org/websites-apps/responsive-web-design/
+CSS Positioning  https://www.geeksforgeeks.org/css/css-positioning-elements/
+Quiz: CSS Layout Logic  https://www.geeksforgeeks.org/quizzes/css-layout-logic-quiz/
+CSS Nesting style rules  https://www.geeksforgeeks.org/css/explain-nesting-and-grouping-in-css/
+Quiz: CSS Responsive Design and Media Queries  https://www.geeksforgeeks.org/quizzes/css-responsive-design-and-media-queries-quiz/
+
 Logic Implementations in CSS
 This Section Covers all the mathematical logic that can be applied in CSS.
 
-CSS Counters
-CSS Columns
-CSS Conditional Rules
-CSS Logical Properties
-CSS Math functions
+CSS Counters  https://www.geeksforgeeks.org/css/css-counters/  
+CSS Columns  https://www.geeksforgeeks.org/css/css-multiple-columns/
+CSS Conditional Rules  https://www.geeksforgeeks.org/css/css-conditional-rules/
+CSS Logical Properties  https://www.geeksforgeeks.org/css/logical-properties-in-css/
+CSS Math functions  https://www.geeksforgeeks.org/css/css-math-functions/
+
 Interesting Facts in CSS
 This section covers all the interesting facts and features that make CSS a powerful and versatile tool for web design.
 
-CSS Image Styling
-CSS Text Styling
-CSS Grid
-CSS Box Model
-CSS Flexbox
-Complete CSS
-Advanced CSS Topics
+CSS Image Styling  https://www.geeksforgeeks.org/css/interesting-facts-about-css-image-styling/
+CSS Text Styling  https://www.geeksforgeeks.org/css/interesting-facts-about-css-text-styling/
+CSS Grid  https://www.geeksforgeeks.org/css/interesting-facts-about-css-grid/
+CSS Box Model  https://www.geeksforgeeks.org/css/interesting-facts-about-the-css-box-model/
+CSS Flexbox  https://www.geeksforgeeks.org/css/interesting-facts-about-css-flexbox/
+Complete CSS  https://www.geeksforgeeks.org/blogs/interesting-facts-about-css/
+
+Advanced CSS Topics  
+
 This Section contains various information about advanced topics in CSS.
 
-CSS Specificity
-CSS Variables
-CSS Inheritance
-CSS Transforms
-CSS Transitions
-CSS Animations
-Quiz: CSS Advanced Styling
-CSS Variables
-CSS Function
-CSS Shadow DOM
-Quiz: CSS Flexbox and Grid Layout
-CSS Interview Questions
+CSS Specificity  https://www.geeksforgeeks.org/css/css-specificity/
+CSS Variables  https://www.geeksforgeeks.org/css/css-variables//
+CSS Inheritance  https://www.geeksforgeeks.org/css/how-to-apply-concept-of-inheritance-in-css/
+CSS Transforms  https://www.geeksforgeeks.org/css/css-3d-transforms/
+CSS Transitions  https://www.geeksforgeeks.org/css/css-transitions/
+CSS Animations  https://www.geeksforgeeks.org/css/css-animations/
+Quiz: CSS Advanced Styling  https://www.geeksforgeeks.org/quizzes/css-advanced-styling-quiz/
+CSS Variables  https://www.geeksforgeeks.org/css/css-variables/
+CSS Function  https://www.geeksforgeeks.org/css/css-functions-complete-reference/
+CSS Shadow DOM  https://www.geeksforgeeks.org/html/what-is-shadow-root-and-how-to-use-it/
+Quiz: CSS Flexbox and Grid Layout  https://www.geeksforgeeks.org/quizzes/css-flexbox-and-grid-layout-quiz/
+
+CSS Interview Questions  
 Explore these CSS concepts, tips, and tricks to strengthen your knowledge and ace your interviews.
 
-CSS Interview Questions and Answers (2025) For Beginners
-Advance CSS Interview Questions and Answers (2025) For Experienced
-CSS Cheat-Sheet for Beginners (2025) - A Basic Guide to CSS.
+CSS Interview Questions and Answers (2025) For Beginners  https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-freshers
+Advance CSS Interview Questions and Answers (2025) For Experienced  https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-experienced
+CSS Cheat-Sheet for Beginners (2025) - A Basic Guide to CSS.  https://www.geeksforgeeks.org/css/css-cheat-sheet-a-basic-guide-to-css/
+
 CSS Frameworks
 CSS Frameworks are a collection of pre-written CSS files (and sometimes JavaScript components) that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.
 
-CSS Frameworks
-CSS Complete Guide - A to Z CSS Concepts
-Learn CSS: Free CSS Course For Beginners
+CSS Frameworks  https://www.geeksforgeeks.org/css/css-framework/
+CSS Complete Guide - A to Z CSS Concepts  https://www.geeksforgeeks.org/css/css-complete-guide/
+Learn CSS: Free CSS Course For Beginners  https://www.geeksforgeeks.org/css/css-tutorial/
+
 CSS Preprocessors
 This section contains information about the preprocessors used in CSS.
 
-CSS Preprocessor SASS
-CSS Preprocessor LESS
+CSS Preprocessor SASS  https://www.geeksforgeeks.org/css/css-preprocessor-sass/
+CSS Preprocessor LESS  https://www.geeksforgeeks.org/css/css-preprocessor-less/
 
