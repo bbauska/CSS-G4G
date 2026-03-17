@@ -95,6 +95,7 @@ structured web page.</p>
 <h2>6. Compute Styles (Match + Cascade)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The browser determines the final styles for each element based on CSS rules.</p>
+
 <ul>
   <li>Browser matches CSS rules to DOM elements.</li>
   <li>Applies cascading rules and calculates final computed styles.</li>
@@ -112,6 +113,7 @@ structured web page.</p>
 <h2>8. Layout (Reflow)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The browser calculates the size and position of each visible element.</p>
+
 <ul>
   <li>Calculates exact position and size of each element.</li>
   <li>Determines where elements appear on the page.</li>
@@ -120,6 +122,7 @@ structured web page.</p>
 <h2>9. Paint</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The browser draws visual parts like text, colors, and images onto the screen.</p>
+
 <ul>
   <li>Converts render tree elements into actual pixels.</li>
   <li>Draws colors, borders, text, images, etc.</li>
@@ -128,6 +131,7 @@ structured web page.</p>
 <h2>10. Display (Compositing)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The browser merges all painted layers and displays the final page output.</p>
+
 <ul>
   <li>Browser combines painted layers into the final image.</li>
   <li>Final visual output is displayed on the screen.</li>
@@ -286,12 +290,16 @@ element spacing, and manage positioning effectively.</p>
 <p>This section covers all the mathematical logic that can be applied in CSS.</p>
 
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/css/css-counters/">CSS Counters</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">CSS Multiple Columns</a><li>
-
-  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">CSS Conditional Rules</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">CSS Logical Properties</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-math-functions/">CSS Math functions</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-counters/">
+    CSS Counters</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">
+    CSS Multiple Columns</a><li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">
+    CSS Conditional Rules</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">
+    CSS Logical Properties</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-math-functions/">
+    CSS Math functions</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Interesting Facts in CSS</h2>
@@ -315,7 +323,7 @@ element spacing, and manage positioning effectively.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Advanced CSS Topics</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>This Section contains various information about advanced topics in CSS.</p>
+<p>This section contains various information about advanced topics in CSS.</p>
 
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-specificity/">CSS Specificity</a></li>
@@ -342,14 +350,17 @@ element spacing, and manage positioning effectively.</p>
 
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-freshers">
-  CSS Interview Questions and Answers (2025) For Beginners</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-experienced">Advance CSS Interview Questions and Answers (2025) For Experienced</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-cheat-sheet-a-basic-guide-to-css/">CSS Cheat-Sheet for Beginners (2025) - A Basic Guide to CSS.</a></li>
+    CSS Interview Questions and Answers (2025) For Beginners</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-experienced">
+    Advance CSS Interview   Questions and Answers (2025) For Experienced</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-cheat-sheet-a-basic-guide-to-css/">
+    CSS Cheat-Sheet for Beginners (2025) - A Basic Guide to CSS.</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>CSS Frameworks are a collection of pre-written CSS files (and sometimes JavaScript components) that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.</p>
+<p>CSS Frameworks are a collection of pre-written CSS files (and sometimes JavaScript components) 
+that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.</p>
 
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-framework/">
