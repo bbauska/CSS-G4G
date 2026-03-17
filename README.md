@@ -223,29 +223,37 @@ Start with CSS Display to learn how elements are shown and arranged.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Now you have a basic understanding of CSS. So start with some beginner level projects to clear 
 your concept and to implement in real world applications.</p>
-
-<p><a href="https://www.geeksforgeeks.org/css/create-geeksforgeeks-logo-using-html-and-css/">
-Design Geeks for Geeks Logo</a></p> 
+<ul>
+  <li>a href="https://www.geeksforgeeks.org/css/create-geeksforgeeks-logo-using-html-and-css/">
+    Design Geeks for Geeks Logo</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Meet the Team Page Design </h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>https://www.geeksforgeeks.org/css/how-to-design-meet-the-team-page-using-html-and-css/</p>
-
-<p><a href="https://www.geeksforgeeks.org/web-templates/design-a-tribute-page-using-html-css/">
-Tribute Page Design</a></p>
-
-<p><a href="https://www.geeksforgeeks.org/web-templates/design-a-web-page-using-html-and-css/">
-Design a web page</a></p>
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/css/how-to-design-meet-the-team-page-using-html-and-css/">
+    Meet the Team Page Design Using HTML and CSS</a></li>
+  <li><a href="https://www.geeksforgeeks.org/web-templates/design-a-tribute-page-using-html-css/">
+    Tribute Page Design</a></li>
+  <li><a href="https://www.geeksforgeeks.org/web-templates/design-a-web-page-using-html-and-css/">
+    Design a web page</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Contact Us Page Design</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>https://www.geeksforgeeks.org/web-templates/design-a-contact-us-page-using-html-and-css/</p>
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/web-templates/design-a-contact-us-page-using-html-and-css/">
+    Contat US Page Design</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Create Browsers Window</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>https://www.geeksforgeeks.org/web-templates/how-to-create-browsers-window-using-html-and-css/</p>
-
-<p><a href="https://www.geeksforgeeks.org/html/how-to-create-an-email-newsletter/">Design Email Newsletter</a></p>
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/web-templates/how-to-create-browsers-window-using-html-and-css/">
+    How to Create Browsers Window using HTML and CSS</a></li>
+  <li><a href="https://www.geeksforgeeks.org/html/how-to-create-an-email-newsletter/">
+    Design Email Newsletter</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Responsive Design</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -303,42 +311,53 @@ element spacing, and manage positioning effectively.</p>
 <h2>Advanced CSS Topics</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This Section contains various information about advanced topics in CSS.</p>
-
-CSS Specificity  https://www.geeksforgeeks.org/css/css-specificity/
-CSS Variables  https://www.geeksforgeeks.org/css/css-variables//
-CSS Inheritance  https://www.geeksforgeeks.org/css/how-to-apply-concept-of-inheritance-in-css/
-CSS Transforms  https://www.geeksforgeeks.org/css/css-3d-transforms/
-CSS Transitions  https://www.geeksforgeeks.org/css/css-transitions/
-CSS Animations  https://www.geeksforgeeks.org/css/css-animations/
-Quiz: CSS Advanced Styling  https://www.geeksforgeeks.org/quizzes/css-advanced-styling-quiz/
-CSS Variables  https://www.geeksforgeeks.org/css/css-variables/
-CSS Function  https://www.geeksforgeeks.org/css/css-functions-complete-reference/
-CSS Shadow DOM  https://www.geeksforgeeks.org/html/what-is-shadow-root-and-how-to-use-it/
-Quiz: CSS Flexbox and Grid Layout  https://www.geeksforgeeks.org/quizzes/css-flexbox-and-grid-layout-quiz/
-
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/css/css-specificity/">CSS Specificity</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-variables//">CSS Variables</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/how-to-apply-concept-of-inheritance-in-css/">
+    CSS Inheritance</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-3d-transforms/">CSS Transforms</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-transitions/">CSS Transitions</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-animations/">CSS Animations</a></li>
+  <li><a href="https://www.geeksforgeeks.org/quizzes/css-advanced-styling-quiz/">
+    Quiz: CSS Advanced Styling</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-variables/">CSS Variables</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-functions-complete-reference/">
+    CSS Function</a></li>
+  <li><a href="https://www.geeksforgeeks.org/html/what-is-shadow-root-and-how-to-use-it/">
+    CSS Shadow DOM</a></li>
+  <li><a href="https://www.geeksforgeeks.org/quizzes/css-flexbox-and-grid-layout-quiz/">
+    Quiz: CSS Flexbox and Grid Layout</a></li> 
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Interview Questions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Explore these CSS concepts, tips, and tricks to strengthen your knowledge and ace your interviews.</p>
-
-<h2>CSS Interview Questions and Answers (2025) For Beginners</h2> https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-freshers
-Advance CSS Interview Questions and Answers (2025) For Experienced  https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-experienced
-CSS Cheat-Sheet for Beginners (2025) - A Basic Guide to CSS.  https://www.geeksforgeeks.org/css/css-cheat-sheet-a-basic-guide-to-css/
-
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-freshers">
+  CSS Interview Questions and Answers (2025) For Beginners</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-experienced">Advance CSS Interview Questions and Answers (2025) For Experienced</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-cheat-sheet-a-basic-guide-to-css/">CSS Cheat-Sheet for Beginners (2025) - A Basic Guide to CSS.</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>CSS Frameworks are a collection of pre-written CSS files (and sometimes JavaScript components) that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.</p>
-
-CSS Frameworks  https://www.geeksforgeeks.org/css/css-framework/
-CSS Complete Guide - A to Z CSS Concepts  https://www.geeksforgeeks.org/css/css-complete-guide/
-Learn CSS: Free CSS Course For Beginners  https://www.geeksforgeeks.org/css/css-tutorial/
-
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/css/css-framework/">
+    CSS Frameworks</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-complete-guide/">
+    CSS Complete Guide - A to Z CSS Concepts</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-tutorial/">
+    Learn CSS: Free CSS Course For Beginners</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Preprocessors</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This section contains information about the preprocessors used in CSS.</p>
 
-CSS Preprocessor SASS  https://www.geeksforgeeks.org/css/css-preprocessor-sass/
-CSS Preprocessor LESS  https://www.geeksforgeeks.org/css/css-preprocessor-less/
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/css/css-preprocessor-sass/">CSS Preprocessor SASS</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-preprocessor-less/">CSS Preprocessor LESS</a></li>
+</ul>
 
