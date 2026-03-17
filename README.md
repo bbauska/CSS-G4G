@@ -166,8 +166,7 @@ and JavaScript.</p>
 it allows the separation of content (HTML) from presentation (CSS). This makes websites easier to 
 maintain and more flexible.</p>
 
-<p>what_is_css_.webpwhat_is_css_.webp</p>
-
+<p>what_is_css_.webp</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Fundamentals</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -189,6 +188,7 @@ maintain and more flexible.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This section covers important CSS properties that control how elements look and work on a webpage. 
 Start with CSS Display to learn how elements are shown and arranged.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-display-property/">CSS Display</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-background/">CSS Backgrounds</a></li>
@@ -207,6 +207,7 @@ Start with CSS Display to learn how elements are shown and arranged.</p>
 <h2>Styling HTML Elements with CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This section covers all the key techniques you need to style different parts of an HTML page using CSS:</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-text-formatting/">CSS Text</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-styling-images/">CSS Images</a></li>
@@ -223,6 +224,7 @@ Start with CSS Display to learn how elements are shown and arranged.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Now you have a basic understanding of CSS. So start with some beginner level projects to clear 
 your concept and to implement in real world applications.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/create-geeksforgeeks-logo-using-html-and-css/">
     Design Geeks for Geeks Logo</a></li>
@@ -282,9 +284,10 @@ element spacing, and manage positioning effectively.</p>
 <h2>Logic Implementations in CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This Section Covers all the mathematical logic that can be applied in CSS.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-counters/">CSS Counters</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">CSS Columns</a><li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">CSS Multiple Columns</a><li>
   <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">CSS Conditional Rules</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">CSS Logical Properties</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-math-functions/">CSS Math functions</a></li>
@@ -293,6 +296,7 @@ element spacing, and manage positioning effectively.</p>
 <h2>Interesting Facts in CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This section covers all the interesting facts and features that make CSS a powerful and versatile tool for web design.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/interesting-facts-about-css-image-styling/">
     CSS Image Styling</a></li>
@@ -311,6 +315,7 @@ element spacing, and manage positioning effectively.</p>
 <h2>Advanced CSS Topics</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This Section contains various information about advanced topics in CSS.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-specificity/">CSS Specificity</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-variables//">CSS Variables</a></li>
@@ -333,6 +338,7 @@ element spacing, and manage positioning effectively.</p>
 <h2>CSS Interview Questions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Explore these CSS concepts, tips, and tricks to strengthen your knowledge and ace your interviews.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-interview-questions/#css-interview-questions-for-freshers">
   CSS Interview Questions and Answers (2025) For Beginners</a></li>
@@ -343,6 +349,7 @@ element spacing, and manage positioning effectively.</p>
 <h2>CSS Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>CSS Frameworks are a collection of pre-written CSS files (and sometimes JavaScript components) that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.</p>
+
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-framework/">
     CSS Frameworks</a></li>
