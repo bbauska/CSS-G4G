@@ -285,13 +285,14 @@ element spacing, and manage positioning effectively.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This Section Covers all the mathematical logic that can be applied in CSS.</p>
 
-<ol>
+<ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-counters/">CSS Counters</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">CSS Multiple Columns</a><li>
   <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">CSS Conditional Rules</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">CSS Conditional Rules</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">CSS Logical Properties</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-math-functions/">CSS Math functions</a></li>
-</ol>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Interesting Facts in CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
