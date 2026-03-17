@@ -224,7 +224,7 @@ Start with CSS Display to learn how elements are shown and arranged.</p>
 <p>Now you have a basic understanding of CSS. So start with some beginner level projects to clear 
 your concept and to implement in real world applications.</p>
 <ul>
-  <li>a href="https://www.geeksforgeeks.org/css/create-geeksforgeeks-logo-using-html-and-css/">
+  <li><a href="https://www.geeksforgeeks.org/css/create-geeksforgeeks-logo-using-html-and-css/">
     Design Geeks for Geeks Logo</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -285,8 +285,10 @@ element spacing, and manage positioning effectively.</p>
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-counters/">CSS Counters</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">CSS Columns</a><li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">CSS Conditional Rules</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">CSS Logical Properties</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">
+    CSS Conditional Rules</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">
+    CSS Logical Properties</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-math-functions/">CSS Math functions</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
