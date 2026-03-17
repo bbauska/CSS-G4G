@@ -2,13 +2,13 @@
 <h1>CSS-G4G</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Geeks 4 Geeks: CSS Tutorial, Brian Style</cite>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>CSS Introduction</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Last Updated : 21 Jan, 2026</cite>
 <p>CSS (Cascading Style Sheets) is a language designed to simplify the process of making web pages 
 presentable.</p>
+
 <ul>
   <li>It allows you to apply styles to HTML documents by prescribing colors, fonts, spacing, and 
   positioning.</li>
@@ -285,10 +285,8 @@ element spacing, and manage positioning effectively.</p>
 <ul>
   <li><a href="https://www.geeksforgeeks.org/css/css-counters/">CSS Counters</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-multiple-columns/">CSS Columns</a><li>
-  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">
-    CSS Conditional Rules</a></li>
-  <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">
-    CSS Logical Properties</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/css-conditional-rules/">CSS Conditional Rules</a></li>
+  <li><a href="https://www.geeksforgeeks.org/css/logical-properties-in-css/">CSS Logical Properties</a></li>
   <li><a href="https://www.geeksforgeeks.org/css/css-math-functions/">CSS Math functions</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
